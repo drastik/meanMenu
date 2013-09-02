@@ -1,4 +1,4 @@
-meanMenu v2.0.2
+meanMenu v2.0.2 (Drupal Responsive Menus version)
 ===========
 
 A menu system for converting a standard menu into a mobile/tablet responsive menu, media query independent.
